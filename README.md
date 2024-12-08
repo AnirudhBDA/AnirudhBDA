@@ -11,7 +11,7 @@ I’m passionate about leveraging data and AI to drive insights, optimize system
 - **Data Science**: Developing predictive models to uncover trends and improve decision-making.
 - **Business Analytics**: Crafting data-driven strategies to enhance business operations.
 - **Artificial Intelligence**: Exploring innovative AI solutions for predictive analytics and process automation.
-- - **Visualization**: Translating complex data into actionable insights using Power BI and Tableau.
+- **Visualization**: Translating complex data into actionable insights using Power BI and Tableau.
 - **Cloud & Automation**: Streamlining processes using tools like Azure Databricks and Jenkins.
 
 
